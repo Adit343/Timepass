@@ -1,5 +1,5 @@
 # Timepass
 
-Author - Adit shah
+Author - Adit kalpit shah
 <br>
 hi hello 
